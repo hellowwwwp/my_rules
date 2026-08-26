@@ -1,0 +1,39 @@
+# 本机地址
+DOMAIN,localhost
+DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,local
+# 腾讯国内
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencentcs.com
+DOMAIN-SUFFIX,rumt-zh.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,cos.ap-nanjing.myqcloud.com
+# 飞书国内
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,larkoffice.com
+# 壹速云
+DOMAIN-SUFFIX,onesy2.cc
+# 搜狗
+DOMAIN-SUFFIX,sogou.com
+# jetbrains
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.cloud
+# 蒲公英
+DOMAIN-SUFFIX,pgyer.com
+DOMAIN-KEYWORD,pgy-apps
+# 国内 AI
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,deepseek.com
+# 国内数据分析上报
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,cn-fp.apitd.net
+# 蓝湖
+DOMAIN-SUFFIX,lanhuapp.com
+# 国内项目仓库
+DOMAIN-SUFFIX,gitea.hopelive.site
+# 国内购物
+DOMAIN-SUFFIX,jd.com
