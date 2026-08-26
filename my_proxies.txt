@@ -1,0 +1,4 @@
+# 海外项目
+DOMAIN-SUFFIX,unyin.cn
+DOMAIN-SUFFIX,onesy2.cc
+DOMAIN-SUFFIX,voia.net
