@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,cos.ap-nanjing.myqcloud.com
 DOMAIN-SUFFIX,feishucdn.com
 DOMAIN-SUFFIX,larkoffice.com
 # 壹速云
-DOMAIN-SUFFIX,onesy2.cc
+# DOMAIN-SUFFIX,onesy2.cc
 # 搜狗
 DOMAIN-SUFFIX,sogou.com
 # jetbrains
