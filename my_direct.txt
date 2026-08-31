@@ -37,5 +37,7 @@ DOMAIN-SUFFIX,lanhuapp.com
 DOMAIN-SUFFIX,gitea.hopelive.site
 # 国内购物
 DOMAIN-SUFFIX,jd.com
-#iKuuu VPN
+# iKuuu VPN
 DOMAIN-KEYWORD,ikuuu
+# 网易邮箱
+DOMAIN-SUFFIX,mail.yeah.net
