@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-KEYWORD,ikuuu
 # 网易邮箱
 DOMAIN-SUFFIX,mail.yeah.net
+# 即构
+DOMAIN-SUFFIX,zego.im
